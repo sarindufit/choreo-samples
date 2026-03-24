@@ -1,8 +1,0 @@
-[package]
-org = "choreo"
-name = "greeting_service"
-distribution = "2201.9.2"
-version = "3.1.1"
-
-[build-options]
-observabilityIncluded = true

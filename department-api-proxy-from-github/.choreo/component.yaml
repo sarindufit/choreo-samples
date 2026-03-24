@@ -1,4 +1,0 @@
-schemaVersion: 1.2
-proxy:
-  type: REST
-  schemaFilePath: openapi.yaml
